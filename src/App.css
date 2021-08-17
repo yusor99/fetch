@@ -271,6 +271,7 @@
   width: 333px;
   height: 157px;
   font-family: Montserrat;
+  margin: auto;
 }
 .cardHead {
   display: flex;
